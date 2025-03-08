@@ -8,6 +8,7 @@
     "email": "contact@francoisbest.com",
     "url": "https://francoisbest.com"
   },
+  "funding": "https://github.com/sponsors/franky47",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/47ng/nuqs.git",
@@ -174,7 +175,8 @@
     "size-limit": "^11.1.6",
     "tsup": "^8.3.6",
     "typescript": "^5.7.3",
-    "vitest": "^3.0.5"
+    "vitest": "^3.0.5",
+    "vitest-package-exports": "^0.1.0"
   },
   "size-limit": [
     {
